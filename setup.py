@@ -6,7 +6,7 @@ setup(
   description = "Levenshtein is used to demonstrate how similar two strings are",
   license = "",
   install_requires = [],
-  setup_requires = [],
+  setup_requires = ["numpy"],
   tests_requires = [],
   test_suite = "tests",
 )
