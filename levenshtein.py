@@ -1,3 +1,5 @@
+import numpy as np
+
 def getRatio(s, t):
 
     rows = len(s)+1
